@@ -1,2 +1,2 @@
-console.log("this is git learning updated for pull req")
+console.log("chnage from main")
 console.log("main branch is also updating")
